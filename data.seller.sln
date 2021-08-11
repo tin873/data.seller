@@ -9,7 +9,7 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "data.seller.Manager", "data
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "data.seller.RequestManager", "data.seller.RequestManager\data.seller.RequestManager.csproj", "{F1B744F1-0F6E-42BC-8AEF-4F876374CC5B}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "data.seller.Tiki", "data.seller.Tiki\data.seller.Tiki.csproj", "{6529BAD2-FD52-4F4A-BEF3-07F57024291A}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "data.seller.Tiki", "data.seller.Tiki\data.seller.Tiki.csproj", "{6529BAD2-FD52-4F4A-BEF3-07F57024291A}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

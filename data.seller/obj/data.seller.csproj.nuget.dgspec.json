@@ -1,0 +1,304 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\ADMIN\\Desktop\\ndtin\\VCS\\data.seller\\data.seller\\data.seller.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\ADMIN\\Desktop\\ndtin\\VCS\\data.seller\\data.seller.Manager\\data.seller.Manager.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\ADMIN\\Desktop\\ndtin\\VCS\\data.seller\\data.seller.Manager\\data.seller.Manager.csproj",
+        "projectName": "data.seller.Manager",
+        "projectPath": "C:\\Users\\ADMIN\\Desktop\\ndtin\\VCS\\data.seller\\data.seller.Manager\\data.seller.Manager.csproj",
+        "packagesPath": "C:\\Users\\ADMIN\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\ADMIN\\Desktop\\ndtin\\VCS\\data.seller\\data.seller.Manager\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\ADMIN\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {
+              "C:\\Users\\ADMIN\\Desktop\\ndtin\\VCS\\data.seller\\data.seller.RequestManager\\data.seller.RequestManager.csproj": {
+                "projectPath": "C:\\Users\\ADMIN\\Desktop\\ndtin\\VCS\\data.seller\\data.seller.RequestManager\\data.seller.RequestManager.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "dependencies": {
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[12.0.2, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.300\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\ADMIN\\Desktop\\ndtin\\VCS\\data.seller\\data.seller.RequestManager\\data.seller.RequestManager.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\ADMIN\\Desktop\\ndtin\\VCS\\data.seller\\data.seller.RequestManager\\data.seller.RequestManager.csproj",
+        "projectName": "data.seller.RequestManager",
+        "projectPath": "C:\\Users\\ADMIN\\Desktop\\ndtin\\VCS\\data.seller\\data.seller.RequestManager\\data.seller.RequestManager.csproj",
+        "packagesPath": "C:\\Users\\ADMIN\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\ADMIN\\Desktop\\ndtin\\VCS\\data.seller\\data.seller.RequestManager\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\ADMIN\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.300\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\ADMIN\\Desktop\\ndtin\\VCS\\data.seller\\data.seller.Tiki\\data.seller.Tiki.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\ADMIN\\Desktop\\ndtin\\VCS\\data.seller\\data.seller.Tiki\\data.seller.Tiki.csproj",
+        "projectName": "data.seller.Tiki",
+        "projectPath": "C:\\Users\\ADMIN\\Desktop\\ndtin\\VCS\\data.seller\\data.seller.Tiki\\data.seller.Tiki.csproj",
+        "packagesPath": "C:\\Users\\ADMIN\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\ADMIN\\Desktop\\ndtin\\VCS\\data.seller\\data.seller.Tiki\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\ADMIN\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {
+              "C:\\Users\\ADMIN\\Desktop\\ndtin\\VCS\\data.seller\\data.seller.RequestManager\\data.seller.RequestManager.csproj": {
+                "projectPath": "C:\\Users\\ADMIN\\Desktop\\ndtin\\VCS\\data.seller\\data.seller.RequestManager\\data.seller.RequestManager.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "dependencies": {
+            "Microsoft.Extensions.Options": {
+              "target": "Package",
+              "version": "[2.1.1, )"
+            },
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[12.0.1, )"
+            },
+            "System.Text.Encoding.CodePages": {
+              "target": "Package",
+              "version": "[4.6.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.300\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\ADMIN\\Desktop\\ndtin\\VCS\\data.seller\\data.seller\\data.seller.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\ADMIN\\Desktop\\ndtin\\VCS\\data.seller\\data.seller\\data.seller.csproj",
+        "projectName": "data.seller",
+        "projectPath": "C:\\Users\\ADMIN\\Desktop\\ndtin\\VCS\\data.seller\\data.seller\\data.seller.csproj",
+        "packagesPath": "C:\\Users\\ADMIN\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\ADMIN\\Desktop\\ndtin\\VCS\\data.seller\\data.seller\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\ADMIN\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {
+              "C:\\Users\\ADMIN\\Desktop\\ndtin\\VCS\\data.seller\\data.seller.Manager\\data.seller.Manager.csproj": {
+                "projectPath": "C:\\Users\\ADMIN\\Desktop\\ndtin\\VCS\\data.seller\\data.seller.Manager\\data.seller.Manager.csproj"
+              },
+              "C:\\Users\\ADMIN\\Desktop\\ndtin\\VCS\\data.seller\\data.seller.RequestManager\\data.seller.RequestManager.csproj": {
+                "projectPath": "C:\\Users\\ADMIN\\Desktop\\ndtin\\VCS\\data.seller\\data.seller.RequestManager\\data.seller.RequestManager.csproj"
+              },
+              "C:\\Users\\ADMIN\\Desktop\\ndtin\\VCS\\data.seller\\data.seller.Tiki\\data.seller.Tiki.csproj": {
+                "projectPath": "C:\\Users\\ADMIN\\Desktop\\ndtin\\VCS\\data.seller\\data.seller.Tiki\\data.seller.Tiki.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "dependencies": {
+            "BCrypt.Net-Next": {
+              "target": "Package",
+              "version": "[3.1.3, )"
+            },
+            "Microsoft.Extensions.Caching.Redis": {
+              "target": "Package",
+              "version": "[2.2.0, )"
+            },
+            "Microsoft.Extensions.Configuration": {
+              "target": "Package",
+              "version": "[2.2.0, )"
+            },
+            "Microsoft.Extensions.Configuration.FileExtensions": {
+              "target": "Package",
+              "version": "[2.2.0, )"
+            },
+            "Microsoft.Extensions.Configuration.Json": {
+              "target": "Package",
+              "version": "[2.2.0, )"
+            },
+            "Microsoft.Extensions.DependencyInjection": {
+              "target": "Package",
+              "version": "[2.2.0, )"
+            },
+            "Microsoft.Extensions.Logging.Abstractions": {
+              "target": "Package",
+              "version": "[2.2.0, )"
+            },
+            "Microsoft.Extensions.Options.ConfigurationExtensions": {
+              "target": "Package",
+              "version": "[2.2.0, )"
+            },
+            "Polly": {
+              "target": "Package",
+              "version": "[6.1.2, )"
+            },
+            "protobuf-net": {
+              "target": "Package",
+              "version": "[2.4.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.300\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "5/Lxpin64ZAwn6xqFSexsJU/Wczu5KEPNAZqHDBUXOqGfQfsH6GuYH+hOf5eBmA7urHpMSKQUSravoD/vLw9kg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\ADMIN\\Desktop\\ndtin\\VCS\\data.seller\\data.seller.Manager\\data.seller.Manager.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ADMIN\\.nuget\\packages\\newtonsoft.json\\12.0.2\\newtonsoft.json.12.0.2.nupkg.sha512"
+  ],
+  "logs": []
+}

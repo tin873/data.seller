@@ -1,5 +1,5 @@
 ﻿
-namespace data.seller.RequestManager.Model
+namespace data.seller.RequestManager
 {
     public class ProxyInfo
     {

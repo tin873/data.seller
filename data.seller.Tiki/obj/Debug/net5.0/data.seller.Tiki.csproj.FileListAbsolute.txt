@@ -1,0 +1,16 @@
+C:\Users\ADMIN\Desktop\ndtin\VCS\data.seller\data.seller.Tiki\bin\Debug\net5.0\data.seller.Tiki.deps.json
+C:\Users\ADMIN\Desktop\ndtin\VCS\data.seller\data.seller.Tiki\bin\Debug\net5.0\data.seller.Tiki.dll
+C:\Users\ADMIN\Desktop\ndtin\VCS\data.seller\data.seller.Tiki\bin\Debug\net5.0\ref\data.seller.Tiki.dll
+C:\Users\ADMIN\Desktop\ndtin\VCS\data.seller\data.seller.Tiki\bin\Debug\net5.0\data.seller.Tiki.pdb
+C:\Users\ADMIN\Desktop\ndtin\VCS\data.seller\data.seller.Tiki\bin\Debug\net5.0\Core.Common.dll
+C:\Users\ADMIN\Desktop\ndtin\VCS\data.seller\data.seller.Tiki\bin\Debug\net5.0\data.seller.RequestManager.dll
+C:\Users\ADMIN\Desktop\ndtin\VCS\data.seller\data.seller.Tiki\bin\Debug\net5.0\data.seller.RequestManager.pdb
+C:\Users\ADMIN\Desktop\ndtin\VCS\data.seller\data.seller.Tiki\obj\Debug\net5.0\data.seller.Tiki.csproj.AssemblyReference.cache
+C:\Users\ADMIN\Desktop\ndtin\VCS\data.seller\data.seller.Tiki\obj\Debug\net5.0\data.seller.Tiki.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ADMIN\Desktop\ndtin\VCS\data.seller\data.seller.Tiki\obj\Debug\net5.0\data.seller.Tiki.AssemblyInfoInputs.cache
+C:\Users\ADMIN\Desktop\ndtin\VCS\data.seller\data.seller.Tiki\obj\Debug\net5.0\data.seller.Tiki.AssemblyInfo.cs
+C:\Users\ADMIN\Desktop\ndtin\VCS\data.seller\data.seller.Tiki\obj\Debug\net5.0\data.seller.Tiki.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\Desktop\ndtin\VCS\data.seller\data.seller.Tiki\obj\Debug\net5.0\data.seller.Tiki.csproj.CopyComplete
+C:\Users\ADMIN\Desktop\ndtin\VCS\data.seller\data.seller.Tiki\obj\Debug\net5.0\data.seller.Tiki.dll
+C:\Users\ADMIN\Desktop\ndtin\VCS\data.seller\data.seller.Tiki\obj\Debug\net5.0\ref\data.seller.Tiki.dll
+C:\Users\ADMIN\Desktop\ndtin\VCS\data.seller\data.seller.Tiki\obj\Debug\net5.0\data.seller.Tiki.pdb

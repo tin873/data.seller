@@ -1,0 +1,17 @@
+{
+  "version": 2,
+  "dgSpecHash": "56cSjjjTRQtS/Y8AUu7ZkSkOCa5jflPvrkfya4mk9TsVqElL7sjxGBVht3KtQjsrgvbwzncNQZ+lXsoH0yM3nQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\ADMIN\\Desktop\\ndtin\\VCS\\data.seller\\data.seller.Tiki\\data.seller.Tiki.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ADMIN\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\2.1.1\\microsoft.extensions.dependencyinjection.abstractions.2.1.1.nupkg.sha512",
+    "C:\\Users\\ADMIN\\.nuget\\packages\\microsoft.extensions.options\\2.1.1\\microsoft.extensions.options.2.1.1.nupkg.sha512",
+    "C:\\Users\\ADMIN\\.nuget\\packages\\microsoft.extensions.primitives\\2.1.1\\microsoft.extensions.primitives.2.1.1.nupkg.sha512",
+    "C:\\Users\\ADMIN\\.nuget\\packages\\microsoft.netcore.platforms\\3.0.0\\microsoft.netcore.platforms.3.0.0.nupkg.sha512",
+    "C:\\Users\\ADMIN\\.nuget\\packages\\newtonsoft.json\\12.0.1\\newtonsoft.json.12.0.1.nupkg.sha512",
+    "C:\\Users\\ADMIN\\.nuget\\packages\\system.memory\\4.5.1\\system.memory.4.5.1.nupkg.sha512",
+    "C:\\Users\\ADMIN\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\4.5.1\\system.runtime.compilerservices.unsafe.4.5.1.nupkg.sha512",
+    "C:\\Users\\ADMIN\\.nuget\\packages\\system.text.encoding.codepages\\4.6.0\\system.text.encoding.codepages.4.6.0.nupkg.sha512"
+  ],
+  "logs": []
+}

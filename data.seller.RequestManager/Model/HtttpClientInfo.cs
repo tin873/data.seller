@@ -1,6 +1,6 @@
 ﻿using System.Net.Http;
 
-namespace data.seller.RequestManager.Model
+namespace data.seller.RequestManager
 {
     public class HttpClientInfo
     {

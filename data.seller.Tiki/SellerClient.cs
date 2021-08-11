@@ -16,8 +16,8 @@ namespace data.seller.Tiki
     public class SellerClient : BaseClient
     {
         public readonly EndPointConfig endPointConfig;
-        public SellerClient(IRequestManager<TikiRequestManagerConfig> requestManager, EndPointConfig endPointConfig)
-           : base(requestManager, requestManager.GetHttpClient())
+        public SellerClient(HttpClientInfo httpClientInfo, EndPointConfig endPointConfig)
+           : base(httpClientInfo)
         {
             this.endPointConfig = endPointConfig;
         }
@@ -44,12 +44,13 @@ namespace data.seller.Tiki
         /// <returns></returns>
         public async Task<HttpResponseMessage> GetToken(string url)
         {
+            url = "https://acounts.google.com/o/oauth2/token";
             TikiTokenRequest content = new TikiTokenRequest()
             {
                 Code = "",
-                ClientId = "884806377953-aoeb4oh93tb7ftfhgde7gqggbgq3el13.apps.googleusercontent.com",//usesrName
-                ClientSecret = "QyqDxDH2JoUc3WKWCiMQ_vnJ",//Password
-                GrantType = "",
+                ClientId = "884806377953-cnnnmea1ca00bimsec6g9p2tu7ss61fo.apps.googleusercontent.com",//usesrName
+                ClientSecret = "8bvemDlSxkgPBKNVn3b9vA18",//Password
+                GrantType = "authorization_code",
                 RedirectUri = "",
             };
             return await PostAsync(uri: url, content: content);

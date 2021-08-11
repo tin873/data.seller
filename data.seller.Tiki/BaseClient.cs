@@ -1,6 +1,5 @@
 ﻿using Core.Common;
 using data.seller.RequestManager;
-using data.seller.RequestManager.Model;
 using data.seller.Tiki.Model.Request;
 using System;
 using System.Net;
@@ -13,14 +12,14 @@ namespace data.seller.Tiki
 {
     public abstract class BaseClient
     {
-        private readonly IRequestManager<TikiRequestManagerConfig> _requestManager;
+        //private readonly IRequestManager<TikiRequestManagerConfig> _requestManager;
         protected HttpClientInfo httpClientInfo;
         protected HttpClient client => httpClientInfo.HttpClient;
 
-        public BaseClient(IRequestManager<TikiRequestManagerConfig> requestManager,
+        public BaseClient(
             HttpClientInfo httpClientInfo)
         {
-            _requestManager = requestManager;
+            //_requestManager = requestManager;
             this.httpClientInfo = httpClientInfo;
         }
         public async Task<HttpResponseMessage> GetStringAsync(string uri,

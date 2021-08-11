@@ -1,5 +1,5 @@
 ﻿
-using data.seller.RequestManager.Model;
+using data.seller.RequestManager;
 using System.Collections.Generic;
 using System.Threading.Tasks;
 

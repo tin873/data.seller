@@ -1,0 +1,15 @@
+C:\Users\ADMIN\Desktop\ndtin\VCS\data.seller\data.seller.Manager\bin\Debug\net5.0\data.seller.Manager.deps.json
+C:\Users\ADMIN\Desktop\ndtin\VCS\data.seller\data.seller.Manager\bin\Debug\net5.0\data.seller.Manager.dll
+C:\Users\ADMIN\Desktop\ndtin\VCS\data.seller\data.seller.Manager\bin\Debug\net5.0\ref\data.seller.Manager.dll
+C:\Users\ADMIN\Desktop\ndtin\VCS\data.seller\data.seller.Manager\bin\Debug\net5.0\data.seller.Manager.pdb
+C:\Users\ADMIN\Desktop\ndtin\VCS\data.seller\data.seller.Manager\bin\Debug\net5.0\data.seller.RequestManager.dll
+C:\Users\ADMIN\Desktop\ndtin\VCS\data.seller\data.seller.Manager\bin\Debug\net5.0\data.seller.RequestManager.pdb
+C:\Users\ADMIN\Desktop\ndtin\VCS\data.seller\data.seller.Manager\obj\Debug\net5.0\data.seller.Manager.csproj.AssemblyReference.cache
+C:\Users\ADMIN\Desktop\ndtin\VCS\data.seller\data.seller.Manager\obj\Debug\net5.0\data.seller.Manager.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ADMIN\Desktop\ndtin\VCS\data.seller\data.seller.Manager\obj\Debug\net5.0\data.seller.Manager.AssemblyInfoInputs.cache
+C:\Users\ADMIN\Desktop\ndtin\VCS\data.seller\data.seller.Manager\obj\Debug\net5.0\data.seller.Manager.AssemblyInfo.cs
+C:\Users\ADMIN\Desktop\ndtin\VCS\data.seller\data.seller.Manager\obj\Debug\net5.0\data.seller.Manager.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\Desktop\ndtin\VCS\data.seller\data.seller.Manager\obj\Debug\net5.0\data.seller.Manager.csproj.CopyComplete
+C:\Users\ADMIN\Desktop\ndtin\VCS\data.seller\data.seller.Manager\obj\Debug\net5.0\data.seller.Manager.dll
+C:\Users\ADMIN\Desktop\ndtin\VCS\data.seller\data.seller.Manager\obj\Debug\net5.0\ref\data.seller.Manager.dll
+C:\Users\ADMIN\Desktop\ndtin\VCS\data.seller\data.seller.Manager\obj\Debug\net5.0\data.seller.Manager.pdb

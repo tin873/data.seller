@@ -1,7 +1,6 @@
 ﻿
 using data.seller.Manager.AppGroup;
 using data.seller.RequestManager;
-using data.seller.RequestManager.Model;
 using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;

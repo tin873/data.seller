@@ -49,10 +49,14 @@ namespace data.seller
 
             services.AddTransient<Tiki.SellerClient>();
 
-            services.AddSingleton(configuration.GetSection("Tiki:RequestManagerConfig").Get<Tiki.TikiRequestManagerConfig>());
+            services.AddSingleton<RequestManager.HttpClientInfo>();
+            services.AddSingleton<RequestManager.ProxyInfo>();
+            services.AddSingleton<Tiki.EndPointConfig>();
+
+            //services.AddSingleton(configuration.GetSection("Tiki:RequestManagerConfig").Get<Tiki.TikiRequestManagerConfig>());
 
             services.AddSingleton<ICreateHttpClient, Tiki.CreateHttpClient>();
-            services.AddSingleton<IRequestManager<Tiki.TikiRequestManagerConfig>, RequestManager<Tiki.TikiRequestManagerConfig>>();
+            //services.AddSingleton<IRequestManager<Tiki.TikiRequestManagerConfig>, RequestManager<Tiki.TikiRequestManagerConfig>>();
 
             var serviceProvider = services.BuildServiceProvider();
             //test

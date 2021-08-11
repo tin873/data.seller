@@ -1,5 +1,5 @@
 ﻿
-using data.seller.RequestManager.Model;
+using data.seller.RequestManager;
 using System.Net.Http;
 
 namespace data.seller.RequestManager
